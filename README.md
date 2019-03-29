@@ -1,6 +1,4 @@
-# vue-cli3-IOTBI3
-
-IOTBI 项目 0.3 版本
+# vue-cli3-template
 
 基于 vue cli3 的模板
 
